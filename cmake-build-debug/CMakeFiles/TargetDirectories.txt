@@ -1,0 +1,3 @@
+/Users/jdnielss/Projects/Kuliah/grade-system-tracker/cmake-build-debug/CMakeFiles/grade_system_tracker.dir
+/Users/jdnielss/Projects/Kuliah/grade-system-tracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jdnielss/Projects/Kuliah/grade-system-tracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
